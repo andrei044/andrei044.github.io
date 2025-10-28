@@ -6,7 +6,13 @@ body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helve
 .nav a { color: #ddd; margin-left: 1rem; text-decoration: none; }
 .nav a:hover { color: #fff; }
 h1, h2, h3 { line-height: 1.25; }
-.hero img { width: 100%; border-radius: 12px; }
+.hero {
+  text-align: center;
+}
+.hero img {
+  max-width: 60%;
+  height: auto;
+}
 .paper-title { margin-top: 1rem; }
 .paper-authors, .paper-affiliations, .paper-venue { color: #555; margin: .25rem 0; }
 .paper-buttons { margin: 1rem 0; display: flex; flex-wrap: wrap; gap: .5rem; }
