@@ -20,7 +20,6 @@ bibtex: |
     author    = {Andrei Constantin and Vlad Negru and Camelia Lemnaru and Rodica Potolea},
     title     = {VISION-RISK: Vision-Language Model for Risk Assessment in Autonomous Driving},
     booktitle = {Proceedings of the ICCP 2025},
-    year      = {2025},
-    pages     = {77}
+    year      = {2025}
   }
 ---
