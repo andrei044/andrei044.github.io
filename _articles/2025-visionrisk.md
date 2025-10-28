@@ -1,4 +1,5 @@
 ---
+layout: article
 title: VISION-RISK: Vision-Language Model for Risk Assessment in Autonomous Driving
 authors: A. Constantin, V. Negru, C. Lemnaru, R. Potolea
 affiliations: Technical University of Cluj-Napoca
