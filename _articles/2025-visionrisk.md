@@ -4,6 +4,7 @@ authors: A. Constantin, V. Negru, C. Lemnaru, R. Potolea
 affiliations: Technical University of Cluj-Napoca
 venue: ICCP 2025
 year: 2025
+date: 2025-10-17
 hero: /assets/images/visionrisk.png
 pdf: /assets/papers/visionrisk.pdf
 code:
